@@ -62,3 +62,6 @@ Next is setting up a storage account, this is done by finding the storage accoun
 <img width="1020" height="755" alt="Screenshot 2026-10-19 174319" src="https://github.com/user-attachments/assets/806a9eb6-97b1-4b9d-bf3f-18c6e09e5dda" />
 
 </p>
+<p>
+ When Done correctly your storage account should show up here ready to be used, just remember that as long as the storage group is active it gets charged so make sure to disable the account when you are done using it so it doesn't charge you.
+</p>
