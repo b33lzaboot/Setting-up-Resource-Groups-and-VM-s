@@ -21,9 +21,13 @@ In this tutorial, I will Show you how to properly set up Resource Groups and Vir
 <h2>High-Level Steps</h2>
 
 - Step 1
+  -Setting up A resource Group
 - Step 2
+ - Confirming that the Resource Groups is set up
 - Step 3
+ -Setting up Virual Machines 
 - Step 4
+ -Confirming the virtual machine works properly  
 
 <h2>Actions and Observations</h2>
 
